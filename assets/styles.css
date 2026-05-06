@@ -60,14 +60,11 @@ a:hover {
 }
 
 .brand-mark {
-  display: inline-grid;
-  place-items: center;
   width: 34px;
   height: 34px;
   border-radius: 8px;
-  background: var(--text);
-  color: #ffffff;
-  font-weight: 800;
+  object-fit: cover;
+  box-shadow: 0 6px 16px rgba(23, 32, 51, 0.14);
 }
 
 .nav {
@@ -138,6 +135,7 @@ a:hover {
   bottom: clamp(26px, 7vw, 72px);
   width: clamp(118px, 24vw, 245px);
   height: auto;
+  border-radius: 22%;
   z-index: 1;
   filter: drop-shadow(0 22px 30px rgba(23, 32, 51, 0.14));
 }

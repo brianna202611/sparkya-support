@@ -1,8 +1,0 @@
-<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">SparkYa app mark</title>
-  <desc id="desc">A rounded square SparkYa app mark with a stylized spark.</desc>
-  <rect width="320" height="320" rx="58" fill="#172033"/>
-  <path d="M164 46L188 126L268 150L188 174L164 254L140 174L60 150L140 126L164 46Z" fill="#F2AA4C"/>
-  <path d="M164 83L180 136L233 152L180 168L164 221L148 168L95 152L148 136L164 83Z" fill="#0F8B8D"/>
-  <path d="M164 115L175 144L204 155L175 166L164 195L153 166L124 155L153 144L164 115Z" fill="white"/>
-</svg>
